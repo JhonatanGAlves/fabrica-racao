@@ -1,10 +1,13 @@
+import { Banner } from "./components/Banner"
+import { Header } from "./components/Header"
 import { GlobalStyle } from "./styles/global"
 
 export const App = () => {
   return (
-    <div className="App">
-      <div>Hello World!</div>
+    <>
+      <Header />
+      <Banner />
       <GlobalStyle />
-    </div>
+    </>
   )
 }
