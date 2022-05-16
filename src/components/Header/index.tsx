@@ -12,7 +12,6 @@ export const Header = () => {
           <a href="#">aves</a>
           <a href="#">pets</a>
           <a href="#">bovinos</a>
-          <a href="#">marketing</a>
         </nav>
       </div>
     </Container>
