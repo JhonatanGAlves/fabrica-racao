@@ -1,4 +1,4 @@
-import { Container } from "./style"
+import { Container } from "./styles"
 import bgVideo from "../../assets/videos/background-banner-video.mp4"
 
 export const Banner = () => {

@@ -6,7 +6,7 @@ export const Container = styled.section`
   margin-top: -6.25rem;
 
   video {
-    position: fixed;
+    position: absolute;
     right: 0;
     bottom: 0;
     min-width: 100%;
@@ -15,7 +15,7 @@ export const Container = styled.section`
   }
 
   .txt-hero {
-    position: fixed;
+    position: absolute;
     top: 0;
     bottom: 0;
     display: flex;
